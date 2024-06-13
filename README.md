@@ -3,6 +3,7 @@
 ## Overview
 
 This is a simple web-based calculator application built using HTML, CSS, and JavaScript. The calculator allows basic arithmetic operations including addition, subtraction, multiplication, division, and modulus. It also supports percentage calculations. The application is designed with a user-friendly interface and includes some stylistic features for a better user experience.
+![Calculator](https://github.com/tabrez1433/InternPe_Calculator/assets/152283368/787a2649-6d81-4762-b4e4-f076267e6155)
 
 ## Features
 
