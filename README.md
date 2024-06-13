@@ -13,7 +13,7 @@ This is a simple web-based calculator application built using HTML, CSS, and Jav
 *Stylish Interface:* Modern design with a clean and user-friendly interface.  
 
 ## Files
-*
+
 *index.html:* The main HTML file containing the structure of the calculator.  
 *index.css:* The CSS file for styling the calculator.  
 *calculator.ico:* An icon file for the calculator.  
@@ -31,17 +31,17 @@ A footer for copyright information.
 
 The CSS file (index.css) provides the styling for the calculator, including:  
 
-*Container:* A flexbox container to center the calculator on the page.  
-*Display:* A styled input field to show the current input and result.  
-*Buttons:* Custom styles for the calculator buttons to enhance their appearance and interactivity.  
-*Footer:* Styling for the footer to display copyright information.  
+Container: A flexbox container to center the calculator on the page.  
+Display: A styled input field to show the current input and result.  
+Buttons: Custom styles for the calculator buttons to enhance their appearance and interactivity.  
+Footer: Styling for the footer to display copyright information.  
 
 ## JavaScript Functionality
 
 The JavaScript code embedded in the HTML file (<script> section) provides the functionality for the calculator:  
 
-*equal() Function:* Evaluates the expression entered by the user and updates the display with the result.  
-*Copyright Function:* Dynamically updates the footer with the current year.  
+equal() Function: Evaluates the expression entered by the user and updates the display with the result.  
+Copyright Function: Dynamically updates the footer with the current year.  
 
 ## Usage
 
