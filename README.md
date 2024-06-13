@@ -21,7 +21,7 @@ This is a simple web-based calculator application built using HTML, CSS, and Jav
 
 ## HTML Structure
 
-**The HTML file defines the layout and structure of the calculator. It includes: ** 
+**The HTML file defines the layout and structure of the calculator. It includes:** 
 
 A header with the title "Calculator".  
 A form containing buttons for digits, operations, and functionalities.  
@@ -30,7 +30,7 @@ A footer for copyright information.
 
 ## CSS Styling
 
-**The CSS file (index.css) provides the styling for the calculator, including:  **
+**The CSS file (index.css) provides the styling for the calculator, including:**
 
 *Container:* A flexbox container to center the calculator on the page.  
 *Display:* A styled input field to show the current input and result.  
@@ -39,7 +39,7 @@ A footer for copyright information.
 
 ## JavaScript Functionality
 
-**The JavaScript code embedded in the HTML file (<script> section) provides the functionality for the calculator:  **
+**The JavaScript code embedded in the HTML file (<script> section) provides the functionality for the calculator:**
 
 *equal() Function:* Evaluates the expression entered by the user and updates the display with the result.  
 *Copyright Function:* Dynamically updates the footer with the current year.  
